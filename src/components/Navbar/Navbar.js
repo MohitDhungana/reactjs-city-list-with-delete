@@ -5,7 +5,7 @@ import './navbar.scss';
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <img src={logo} alt="city tours" srcset="" />
+      <img src={logo} alt="city tours" />
       <ul className="nav-link">
         <li>
           <a href="/" className="nav-links">
